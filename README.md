@@ -17,8 +17,8 @@ To use the script, follow these steps:
 
 1. When an error occurs, click on the "Modify last question" button and paste the broken answer into the text field. For example:
 
-'''
 
+'''
 question
 
 continue with:
