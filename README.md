@@ -7,7 +7,7 @@ This script is a temporary fix for the one minute limit on chatgpt. When an erro
 To install this script, you will need a userscript manager such as [Tampermonkey](https://tampermonkey.net/) or [Greasemonkey](https://www.greasespot.net/).
 
 1. Install a userscript manager for your web browser.
-2. Download the [chatgpt-fix.user.js](https://raw.githubusercontent.com/user/chatgpt-fix/chatgpt-fix.user.js) file from this repository.
+2. Download the [chatgpt-fix.user.js](https://raw.githubusercontent.com/Simohara/fix-chatgpt-script/main/fix-chatgpt.js) file from this repository.
 3. Open the userscript manager and click on the "Add script" button.
 4. Select the downloaded `chatgpt-fix.user.js` file and click on the "Install" button.
 
