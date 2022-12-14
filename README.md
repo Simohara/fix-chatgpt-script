@@ -17,15 +17,15 @@ To use the script, follow these steps:
 
 1. When an error occurs, click on the "Modify last question" button and paste the broken answer into the text field. For example:
 
+```
 
-'''
 question
 
 continue with:
 
 part of broken answer
 
-'''
+```
 
 2. After a successful response, click on the new "Clear" button on the left side to clear the answer cache.
 
